@@ -24,8 +24,8 @@ Print the Huffman code for the string.
 
  
 ## Program:
-### Developed by: RENUGA S
-### Register no:212222230118
+### Developed by: VIKASH S
+### Register no:212222240115
 
 #### Get the input String
 ``` Python
